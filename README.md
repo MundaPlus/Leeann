@@ -14,7 +14,7 @@
 
 | Desktop homelab | Desktop chat |
 |---|---|
-| ![Host table with a detail panel](screenshots/desktop-homelab.jpg) | ![Chat with markdown answers](screenshots/desktop-chat.jpg) |
+| ![Host cards with a detail panel](screenshots/desktop-homelab.jpg) | ![Chat with markdown answers](screenshots/desktop-chat.jpg) |
 
 ## Features
 
